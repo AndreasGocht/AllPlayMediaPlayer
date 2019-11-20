@@ -251,3 +251,4 @@ paket-files/
 .idea/
 *.sln.iml
 src/AllPlayMediaPlayer/AllJoynDotNet/
+src/AllPlayMediaPlayer/AllPlayMediaPlayer_TemporaryKey.pfx
